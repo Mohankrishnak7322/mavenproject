@@ -35,12 +35,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://13.232.49.120:8081/repository/test/</url>
+		<url>http://65.2.186.59:8081/repository/lilyrepo/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://13.232.49.120:8081/repository/test/</url>
+		<url>http://65.2.186.59:8081/repository/lilyrepo/</url>
       </repository>
 	
    </distributionManagement>
