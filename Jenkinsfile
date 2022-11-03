@@ -38,7 +38,7 @@ pipeline
                 }*/
                 
             
-        }
+        
          /*stage('emailnotification'){
                 steps
                 {
@@ -54,7 +54,7 @@ pipeline
         
         
         
-        
+    }
         
         
     }
