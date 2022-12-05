@@ -35,12 +35,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://13.127.145.82:8081/repository/deployjen/</url>
+		<url>http://65.2.31.152:8081/repository/mohankrishna12/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://13.127.145.82:8081/repository/deployjen/</url>
+		<url>http://65.2.31.152:8081/repository/mohankrishna12/</url>
       </repository>
 	
    </distributionManagement>
