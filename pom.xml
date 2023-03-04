@@ -35,12 +35,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://13.233.229.236:8081/repository/king/</url>
+		<url>http://54.208.172.4:8081/repository/gayathri/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://13.233.229.236:8081/repository/king/</url>
+		<url>http://54.208.172.4:8081/repository/gayathri/</url>
       </repository>
 	
    </distributionManagement>
