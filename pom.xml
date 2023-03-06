@@ -35,12 +35,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://54.208.172.4:8081/repository/gayathri/</url>
+		<url>http://54.211.197.125:8081/repository/gayathri/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://54.208.172.4:8081/repository/gayathri/</url>
+		<url>http://54.211.197.125:8081/repository/gayathri/</url>
       </repository>
 	
    </distributionManagement>
