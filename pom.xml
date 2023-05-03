@@ -17,7 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-    <sonar.host.url>http://43.205.241.164:9000/</sonar.host.url>
+    <sonar.host.url>http://3.83.45.106:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
     <sonar.password>admin</sonar.password>
     
@@ -35,12 +35,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://54.211.197.125:8081/repository/gayathri/</url>
+		<url>http://3.92.77.73:8081/repository/Gayathri/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>mohan</name>
-		<url>http://54.211.197.125:8081/repository/gayathri/</url>
+		<url>http://3.92.77.73:8081/repository/Gayathri/</url>
       </repository>
 	
    </distributionManagement>
